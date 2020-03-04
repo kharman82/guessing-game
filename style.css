@@ -1,0 +1,19 @@
+h1 {
+    /* background-color: red; */
+    color: gold;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;  
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    color: red;
+    /* background-color: gold; */
+    
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1503899036084-c55cdd92da26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80);
+    background-blend-mode: overlay;
+}
